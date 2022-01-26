@@ -9,7 +9,7 @@
 </p>
 
 ## :open_book: Sobre
-Este repositório contêm um projeto de uma pagina feita no curso.
+Este repositório contém um projeto de uma página feita no curso básico de bootstrap.
 
 
 ## :hammer: Tecnologias
